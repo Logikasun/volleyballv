@@ -1,0 +1,50 @@
+body {
+    font-size: 20px;
+    font-family: cursive;
+    background-color: #ffe077;
+    color: #7b6f51;
+}
+
+nav {
+    margin: 0px;
+    padding: 20px;
+    text-align: center;
+    background-color: #ffeeb3;
+}
+
+nav a {
+    text-decoration: none;
+    color: #7b6f51;
+    background-color: #fff8e1;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+h1 {
+    margin: 10px 0px;
+    padding: 20px;
+    text-align: center;
+    background-color: #ffeeb3;
+}
+
+.uk,
+.facts,
+.photo,
+.famost {
+    background-color: #ffe795;
+    padding: 20px;
+    border-radius: 20px;
+    margin: 20px;
+}
+
+h2 {
+    text-align: center;
+}
+
+img {
+    height: 200px;
+}
+
+.photo {
+    text-align: center;
+}
